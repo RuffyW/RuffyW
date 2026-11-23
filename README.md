@@ -8,14 +8,17 @@ Ich mache eine Ausbildung zum **Fachinformatiker für Anwendungsentwicklung** (A
 
 | Bereich       | Technologien |
 |---------------|--------------|
-| Backend       | Java · Spring Boot · Hibernate · Python · FastAPI |
+| Backend       | PHP · Java · Spring Boot · Hibernate · Python · FastAPI |
 | Desktop       | C# · .NET · WPF · Windows Forms |
 | Mobile        | Swift (iOS) · Kotlin (Android) |
 | Web           | TypeScript · Next.js · Astro · HTML/CSS |
 | Datenbanken   | MariaDB · SQL Server · SQLite · Redis |
-| Werkzeuge     | Git · GitHub · Docker · Visual Studio · Xcode |
+| Werkzeuge     | Git · GitHub Actions (CI/CD) · Docker · Visual Studio · Xcode |
 
 ## Ausgewählte Projekte
+
+**[snusranking.com](https://snusranking.com)** – PHP 8 · MySQL · JavaScript · mein aktuellstes Projekt<br>
+Vergleichs- und Bewertungsplattform mit Community-Tests, Benutzerkonten, Admin-Bereich mit Statistiken, Newsletter und Moderation. Dazu kommen Zwei-Faktor-Login, automatische Tests und Deployment per GitHub Actions. Der Code ist privat.
 
 **[Autovermietung](https://github.com/RuffyW/WPFAutovermietung)** – C# / WPF<br>
 Fuhrparkverwaltung mit SQLite-Datenbank, MVVM-Rechnern und Auswertung nach Fahrzeugtyp.
