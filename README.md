@@ -17,19 +17,19 @@ Ich mache eine Ausbildung zum **Fachinformatiker für Anwendungsentwicklung** (A
 
 ## Ausgewählte Projekte
 
-**[Autovermietung](https://github.com/RuffyW/WPFAutovermietung)** – C# / WPF
+**[Autovermietung](https://github.com/RuffyW/WPFAutovermietung)** – C# / WPF<br>
 Fuhrparkverwaltung mit SQLite-Datenbank, MVVM-Rechnern und Auswertung nach Fahrzeugtyp.
 
-**[ProNatur Biomarkt](https://github.com/RuffyW/ProNatur-Biomarkt-GmbH)** – C# / Windows Forms
+**[ProNatur Biomarkt](https://github.com/RuffyW/ProNatur-Biomarkt-GmbH)** – C# / Windows Forms<br>
 Produkt- und Rechnungsverwaltung mit SQL-Server-Anbindung, Abschlussprojekt eines C#-Zertifikatskurses.
 
-**Fitnessstudio-Buchungssystem** – Java / Spring Boot · Teamprojekt
+**Fitnessstudio-Buchungssystem** – Java / Spring Boot · Teamprojekt<br>
 Kurs-, Trainer- und Mitgliederverwaltung mit Rollen, Buchungen, CSV-Export und Mailversand, umgesetzt zu viert in der Berufsschule.
 
-**Nimo** – Swift / iOS · in Entwicklung
+**Nimo** – Swift / iOS · in Entwicklung<br>
 Eine werbefreie Streaming-App mit Animationsvideos für Kinder. Der Code ist privat, Einblick gebe ich gern im Gespräch.
 
-**F1 Analytics** – Python · FastAPI · Next.js
+**F1 Analytics** – Python · FastAPI · Next.js<br>
 Analyse-Tool für Formel-1-Daten mit Sessions, Wertungen, Telemetrie und Export.
 
 ## Kontakt
