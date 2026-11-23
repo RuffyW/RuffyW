@@ -29,10 +29,10 @@ Produkt- und Rechnungsverwaltung mit SQL-Server-Anbindung, Abschlussprojekt eine
 **Fitnessstudio-Buchungssystem** – Java / Spring Boot · Teamprojekt<br>
 Kurs-, Trainer- und Mitgliederverwaltung mit Rollen, Buchungen, CSV-Export und Mailversand, umgesetzt zu viert in der Berufsschule.
 
-**Nimo** – Swift / iOS · in Entwicklung<br>
+**[Nimo](https://getnimo.de)** – Swift / iOS · in Entwicklung<br>
 Eine werbefreie Streaming-App mit Animationsvideos für Kinder. Der Code ist privat, Einblick gebe ich gern im Gespräch.
 
-**F1 Analytics** – Python · FastAPI · Next.js<br>
+**[F1 Analytics](https://github.com/RuffyW/F1App)** – Python · FastAPI · Next.js<br>
 Analyse-Tool für Formel-1-Daten mit Sessions, Wertungen, Telemetrie und Export.
 
 ## Kontakt
